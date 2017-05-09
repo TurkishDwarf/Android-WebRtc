@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\reactive-streams-1.0.0_24a1adfb3afc0fc0957be096be5a499f6810b976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.6\3562c66f648480d3bd4f76cff722488ced13445b\kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\kotlin-runtime-1.0.6_739942c55dac5e8c1040456303e60f57ced5f712\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\libs\base_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\2\base_java_15c7427900207bb528c73868c217dfd7740da0fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\818483f750df4acd5a7c774564c8919262f976e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\classes_2472b94ea90af0101fdc17c62c491ef237abb7eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\82ddc93e80cf7f635b8aa5a50658f9b4d2131381\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\classes_97f8885a5f37f43e052c5263cffd8a2ad993263c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.6\d19acb6ed49b9c48228c0e5dff8071fce23be4b8\kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\kotlin-stdlib-1.0.6_5dc7119c8d2e1f47685cbbfeffd762545ca7326f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\incremental-classes\legacy\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="652a27455c9d9439c0b22cd49ce1083c2751cffd">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10000\instant-run-bootstrap_65734498b99f1393e5e99148c2096ffdb59bd17e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\libs\libjingle_peerconnection.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\2\libjingle_peerconnection_b67653adb32b3e7ac969c91690ebb0262acc94cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.5\4f1ac7ec0215e8f87ac80269baadc82878b87ed8\rxjava-2.0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\rxjava-2.0.5_aeec2a23111dfcae7ddfd9ad334fd4a277156105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\libs\autobanh.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\2\autobanh_280619cb707725c801449e59b5cf02f352758f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.0\baseLibrary-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf0b6ab1d94f770655f81657b93fce2ba4cd331d">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\baseLibrary-2.3.0_8bc1fbcf84609ef9b8063719782059b0471af2cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\incremental-runtime-classes\legacy\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10000\instant-run_85b63bff59c5243515063deabee03ebc4e67bd48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\3584b01bbe847cebc059cc69e231dfad0ad70e59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\classes_280a26eb6e3ac71d0a3c9daec9ac79fdfa200a3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\e1d5b0ea7e6517427eb3019731ae5e740ac66540\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Android-WebRtc-master\app\build\intermediates\transforms\dex\legacy\debug\folders\1000\10\classes_162079480725b8d45c46ece7f9573567e06dafee\classes.dex" />
+    </item>
+
+</items>

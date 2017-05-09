@@ -1,0 +1,7 @@
+#Tue May 09 21:45:47 CST 2017
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\Android-WebRtc-master\\app\\build\\intermediates\\transforms\\dex\\legacy\\debug\\folders\\1000\\10000\\instant-run_85b63bff59c5243515063deabee03ebc4e67bd48
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\user\\AndroidStudioProjects\\Android-WebRtc-master\\app\\build\\intermediates\\transforms\\dex\\legacy\\debug\\folders\\1000\\10000\\instant-run-bootstrap_65734498b99f1393e5e99148c2096ffdb59bd17e\\classes.dex
+base.1=C\:\\Users\\user\\AndroidStudioProjects\\Android-WebRtc-master\\app\\build\\intermediates\\transforms\\dex\\legacy\\debug\\folders\\1000\\10000\\instant-run-bootstrap_65734498b99f1393e5e99148c2096ffdb59bd17e
+file.0=C\:\\Users\\user\\AndroidStudioProjects\\Android-WebRtc-master\\app\\build\\intermediates\\transforms\\dex\\legacy\\debug\\folders\\1000\\10000\\instant-run_85b63bff59c5243515063deabee03ebc4e67bd48\\classes.dex
